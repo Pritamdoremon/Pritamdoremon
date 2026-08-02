@@ -3,32 +3,30 @@
 <h3 align="center">Software Developer | Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Developer;REST+API+Developer;PostgreSQL+%7C+TypeScript+%7C+Spring;450%2B+DSA+Problems+Solved;Open+to+SDE+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Developer;Java+%7C+Spring+Boot;REST+API+Developer;PostgreSQL+%7C+TypeScript;Open+to+SDE+Opportunities" />
 </p>
 
 ---
 
-# 💫 About Me
+# About Me
 
-💻 Software Developer passionate about designing and developing scalable backend applications.
+I'm a Software Developer with a strong interest in backend development and problem solving.
 
-🎓 Final-year B.Tech CSE (AI & DS) student at IIIT Ranchi.
+I recently completed a **6-month Software Developer Internship** at **Trip and Event Pvt. Ltd.**, where I worked on CRM backend modules using **Express.js, TypeScript, PostgreSQL, and REST APIs**.
 
-💼 Completed a 6-month Software Developer Internship, building REST APIs and backend modules for a CRM application.
+Currently, I'm focused on strengthening my skills in **Java, Spring Boot, Backend Development, and System Design** while preparing for Software Development Engineer roles.
 
-🌱 Currently learning Spring Boot, System Design, and Backend Architecture.
+- B.Tech in Computer Science & Engineering (AI & DS), IIIT Ranchi (2026)
+- Solved **450+ DSA problems**
+- Interested in building scalable backend applications and REST APIs
 
-⚡ Solved 450+ DSA Problems.
+**Email:** pritamroysarkar2003@gmail.com
 
-📫 Email: **pritamroysarkar2003@gmail.com**
-
-📱 Phone: **+91 8597435508**
-
-🌐 Portfolio: **https://portfolio-pitam-cwzeufpls-pritam-s-projects-f49200ce.vercel.app**
+**Portfolio:** https://portfolio-pitam-cwzeufpls-pritam-s-projects-f49200ce.vercel.app
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
 
@@ -64,94 +62,79 @@
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
-### 🚀 Languages
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚙ Backend
+### Backend
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄 Database
+### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠 Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea)
 
 ---
 
-# 💼 Experience
+# Experience
 
 ## Software Developer Intern
 
 **Trip and Event Pvt. Ltd.**  
-📍 Kolkata | Jan 2026 – Jul 2026
+*Kolkata | Jan 2026 – Jul 2026*
 
 - Developed **22 REST APIs** for CRM modules.
-- Built the **Visa Management Module** with CRUD operations, dashboard, filtering, and CSV import/export.
-- Enhanced the **Seller Management Module** with APIs for seller management and lead handling.
-- Worked with **TypeScript, Express.js, PostgreSQL, and REST APIs**.
+- Built the **Visa Management Module** with CRUD operations, filtering, dashboard features, and CSV import/export.
+- Developed backend APIs for the **Seller Management Module** and lead handling.
+- Worked with **Express.js, TypeScript, PostgreSQL, and REST APIs** in a production environment.
 
 ---
 
-# 🚀 Featured Projects
+# Projects
 
-## 📚 SmartLibrary
+## SmartLibrary
 
-**Tech Stack:** Java, JDBC, PostgreSQL, Spring Core
+**Java | JDBC | PostgreSQL | Spring Core**
 
-- Library Management System
-- User Authentication
-- Borrow & Return Books
-- Layered Architecture
-- Transaction Management
+A backend-based Library Management System that supports user authentication, book borrowing, returning, and transaction management using a layered architecture.
 
 ---
 
-## 🎬 BookMyMovies
+## BookMyMovies
 
-**Tech Stack:** Java, JDBC, PostgreSQL
+**Java | JDBC | PostgreSQL**
 
-- Movie Ticket Booking System
-- Seat Reservation
-- User Authentication
-- Transaction Handling
+A console-based Movie Ticket Booking System that includes user authentication, seat booking, ticket management, and database integration.
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
-🏅 LeetCode Rating **1503**
-
-🏅 CodeChef Rating **1484**
-
-🔥 Solved **450+ DSA Problems**
-
-🏆 Top **42.59%** in LeetCode Contests
-
-🏆 HackWithInfy 2025 Round 1 Qualified
-
-🏆 TCS CodeVita Season 13 Round 1
-
-🏆 Top 10 – Smart India Hackathon Internal Hackathon
+- Solved **450+ DSA Problems**
+- LeetCode Rating: **1503**
+- CodeChef Rating: **1484**
+- Top **42.59%** in LeetCode Contests
+- HackWithInfy 2025 Round 1 Qualified
+- TCS CodeVita Season 13 Round 1
+- Top 10 – Smart India Hackathon (Internal)
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+Thanks for visiting my profile.
 </h3>
