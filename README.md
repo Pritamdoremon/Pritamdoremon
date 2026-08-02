@@ -14,7 +14,7 @@ I'm a Software Developer with a strong interest in backend development and probl
 
 I recently completed a **6-month Software Developer Internship** at **Trip and Event Pvt. Ltd.**, where I worked on CRM backend modules using **Express.js, TypeScript, PostgreSQL, and REST APIs**.
 
-Currently, I'm focused on strengthening my skills in **Java, Spring Boot, Backend Development, and System Design** while preparing for Software Development Engineer roles.
+Currently, I'm focused on strengthening my skills in **Java,Node js ,Rest Api** while preparing for Software Development Engineer roles.
 
 - B.Tech in Computer Science & Engineering (AI & DS), IIIT Ranchi (2026)
 - Solved **450+ DSA problems**
