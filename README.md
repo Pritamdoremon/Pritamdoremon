@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Developer;REST+API+Developer;PostgreSQL+%7C+TypeScript+%7C+Spring;450%2B+DSA+Problems+Solved;Open+to+SDE+Opportunities" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pritamdoremon&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 # 💫 About Me
@@ -79,7 +75,7 @@
 ### ⚙ Backend
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
@@ -153,30 +149,6 @@
 🏆 TCS CodeVita Season 13 Round 1
 
 🏆 Top 10 – Smart India Hackathon Internal Hackathon
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pritamdoremon&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritamdoremon&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritamdoremon&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Pritam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pritamdoremon&theme=tokyo-night)](https://github.com/Pritamdoremon)
 
 ---
 
