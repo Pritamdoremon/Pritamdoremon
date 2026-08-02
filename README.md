@@ -26,6 +26,10 @@
 
 📫 Email: **pritamroysarkar2003@gmail.com**
 
+📱 Phone: **+91 8597435508**
+
+🌐 Portfolio: **https://portfolio-pitam-cwzeufpls-pritam-s-projects-f49200ce.vercel.app**
+
 ---
 
 # 🌐 Connect With Me
@@ -36,7 +40,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/pritam-roy-sarkar-54b60b238/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -44,12 +48,20 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/pritamroysarkar2003/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="YOUR_CODECHEF_URL">
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
+</a>
+
+<a href="https://portfolio-pitam-cwzeufpls-pritam-s-projects-f49200ce.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1djIM3jl3nhgzPICEQzuMWFPLsp_JhPwC/view?usp=drivesdk">
+<img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </p>
