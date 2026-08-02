@@ -8,25 +8,26 @@
 
 ---
 
-# About Me
+# 👋 About Me
 
 I'm a Software Developer with a strong interest in backend development and problem solving.
 
 I recently completed a **6-month Software Developer Internship** at **Trip and Event Pvt. Ltd.**, where I worked on CRM backend modules using **Express.js, TypeScript, PostgreSQL, and REST APIs**.
 
-Currently, I'm focused on strengthening my skills in **Java,Node js ,Rest Api** while preparing for Software Development Engineer roles.
+Currently, I'm improving my skills in **Java, Spring Boot, Node.js, REST APIs, and Backend Development** while preparing for Software Development Engineer roles.
 
-- B.Tech in Computer Science & Engineering (AI & DS), IIIT Ranchi (2026)
-- Solved **450+ DSA problems**
-- Interested in building scalable backend applications and REST APIs
+- 🎓 B.Tech in Computer Science & Engineering (AI & DS), IIIT Ranchi (2026)
+- 💻 Completed a 6-month Software Developer Internship
+- 🚀 Solved **450+ DSA Problems**
+- ⚙️ Interested in Backend Development, REST APIs, and Scalable Applications
 
-**Email:** pritamroysarkar2003@gmail.com
+**📧 Email:** pritamroysarkar2003@gmail.com
 
-**Portfolio:** https://portfolio-pitam-cwzeufpls-pritam-s-projects-f49200ce.vercel.app
+**🌐 Portfolio:** https://portfolio-pitam-cwzeufpls-pritam-s-projects-f49200ce.vercel.app
 
 ---
 
-# Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -62,7 +63,7 @@ Currently, I'm focused on strengthening my skills in **Java,Node js ,Rest Api** 
 
 ---
 
-# Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
@@ -91,7 +92,7 @@ Currently, I'm focused on strengthening my skills in **Java,Node js ,Rest Api** 
 
 ---
 
-# Experience
+# 💼 Experience
 
 ## Software Developer Intern
 
@@ -99,31 +100,29 @@ Currently, I'm focused on strengthening my skills in **Java,Node js ,Rest Api** 
 *Kolkata | Jan 2026 – Jul 2026*
 
 - Developed **22 REST APIs** for CRM modules.
-- Built the **Visa Management Module** with CRUD operations, filtering, dashboard features, and CSV import/export.
-- Developed backend APIs for the **Seller Management Module** and lead handling.
+- Designed and implemented the **Visa Management Module** with CRUD operations, dashboard features, filtering, and CSV import/export.
+- Developed backend APIs for the **Seller Management Module** and lead management.
 - Worked with **Express.js, TypeScript, PostgreSQL, and REST APIs** in a production environment.
 
 ---
 
-# Projects
+# 🚀 Projects
 
-## SmartLibrary
+## 📚 SmartLibrary
 
-**Java | JDBC | PostgreSQL | Spring Core**
+**Tech Stack:** Java, JDBC, PostgreSQL, Spring Core
 
-A backend-based Library Management System that supports user authentication, book borrowing, returning, and transaction management using a layered architecture.
+A backend-based Library Management System with user authentication, book borrowing and returning, transaction management, and a layered architecture.
 
----
+### 🎬 BookMyMovies
 
-## BookMyMovies
+**Tech Stack:** Java, JDBC, PostgreSQL
 
-**Java | JDBC | PostgreSQL**
-
-A console-based Movie Ticket Booking System that includes user authentication, seat booking, ticket management, and database integration.
+A console-based Movie Ticket Booking System featuring user authentication, seat booking, ticket management, and database integration.
 
 ---
 
-# Achievements
+# 🏆 Achievements
 
 - Solved **450+ DSA Problems**
 - LeetCode Rating: **1503**
@@ -136,5 +135,5 @@ A console-based Movie Ticket Booking System that includes user authentication, s
 ---
 
 <h3 align="center">
-Thanks for visiting my profile.
+Thanks for stopping by! Feel free to connect with me.
 </h3>
