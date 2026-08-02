@@ -50,6 +50,9 @@ Currently, I'm improving my skills in **Java, Spring Boot, Node.js, REST APIs, a
 <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
 </a>
+<a href="https://www.geeksforgeeks.org/profile/roysarkarpritam?tab=activity">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
 <a href="https://portfolio-pitam-cwzeufpls-pritam-s-projects-f49200ce.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -58,6 +61,7 @@ Currently, I'm improving my skills in **Java, Spring Boot, Node.js, REST APIs, a
 <a href="https://drive.google.com/file/d/1djIM3jl3nhgzPICEQzuMWFPLsp_JhPwC/view?usp=drivesdk">
 <img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
+
 
 </p>
 
@@ -73,7 +77,7 @@ Currently, I'm improving my skills in **Java, Spring Boot, Node.js, REST APIs, a
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Core](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
