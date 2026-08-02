@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🛠️ Tech Stack & Tools
 
-<!--
-**Pritamdoremon/Pritamdoremon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,spring,nodejs,express,postgresql,git,github,maven,idea,vscode,postman,html,css,tailwind&perline=8" />
+</p>
 
-Here are some ideas to get you started:
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgresql" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,maven,idea,vscode,postman" />
+
+</td>
+
+</tr>
+</table>
