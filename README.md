@@ -23,7 +23,7 @@ Currently, I'm improving my skills in **Java, Spring Boot, Node.js, REST APIs, a
 
 **📧 Email:** pritamroysarkar2003@gmail.com
 
-**🌐 Portfolio:** https://portfolio-pitam-cwzeufpls-pritam-s-projects-f49200ce.vercel.app
+**🌐 Portfolio:**https://portfolio-pitam-zeta.vercel.app
 
 ---
 
