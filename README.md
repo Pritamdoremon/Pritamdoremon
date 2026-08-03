@@ -54,7 +54,7 @@ Currently, I'm improving my skills in **Java, Spring Boot, Node.js, REST APIs, a
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-pitam-cwzeufpls-pritam-s-projects-f49200ce.vercel.app">
+<a href="https://portfolio-pitam-zeta.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
