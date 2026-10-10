@@ -2,7 +2,7 @@
 ```markdown
 <h1 align="center">Hi 👋, I'm Pritam Roy Sarkar</h1>
 
-<h3 align="center">Software Developer | Backend Developer | AI Integration</h3>
+<h3 align="center">Software Developer | Backend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Core;Node.js+%7C+Express.js;REST+API+Development;PostgreSQL+%7C+TypeScript;AI-Powered+Applications;Open+to+SDE+Opportunities" />
@@ -52,7 +52,7 @@ I've also built **DriveBlue**, an AI-powered vehicle search and recommendation p
   <a href="https://portfolio-pitam-zeta.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1djIM3jl3nhgzPICEQzuMWFPLsp_JhPwC/view?usp=drivesdk">
+  <a href="https://drive.google.com/file/d/1FBPBktzoNYrdeacpF5lQGxfb7xgawqSm/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
