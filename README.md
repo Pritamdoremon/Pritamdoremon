@@ -1,5 +1,5 @@
 
-```markdown
+
 <h1 align="center">Hi 👋, I'm Pritam Roy Sarkar</h1>
 
 <h3 align="center">Software Developer | Backend Developer</h3>
