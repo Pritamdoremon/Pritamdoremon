@@ -72,19 +72,14 @@ I've also built **DriveBlue**, an AI-powered vehicle search and recommendation p
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
 ![Spring Core](https://img.shields.io/badge/Spring_Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Servlets](https://img.shields.io/badge/Java_Servlets-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge)
+![Servlets](https://img.shields.io/badge/Java_Servlets-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### AI Integration
-
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### Core Concepts
 
